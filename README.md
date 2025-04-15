@@ -16,7 +16,7 @@ This is a simple and static website created using just one HTML file. It contain
 2.  The file was pushed to a GitHub repository using Git commands.
 3.  GitHub Pages was enabled from the repository’s Settings → Pages section.
 4.  Once GitHub Pages is enabled, the website becomes publicly accessible at:  
-    `https://trivediayush.github.io/your-repo-name`
+    `https://trivediayush.github.io/Static-Website`
 
 📌Author
 ---------------------
